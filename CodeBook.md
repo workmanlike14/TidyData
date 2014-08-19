@@ -1,17 +1,12 @@
 Variable
-
   Variable Definition
-
   Range of Values
   
 subject	
-
   Study subject (a person)	
-
   1 to 30
 
 activity	
-
   which of six activities performed by subject
 
   1 walking 2 walkingupstairs 3 walkingdownstairs 4 sitting 5 standing 6 laying

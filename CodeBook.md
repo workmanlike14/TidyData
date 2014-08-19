@@ -27,6 +27,4 @@ timebodyaccelerationmeanx
 
   -1 to 1 (from normalized measurements)
 
-Test
-See what happens
-shdh
+

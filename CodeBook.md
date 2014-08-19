@@ -18,8 +18,11 @@ activity
 timebodyaccelerationmeanx	
 * the mean time domain signal of body acceleration for x axis, averaged for each subject and activity	
 * -1 to 1 (from normalized measurements)
-* 
-* timebodyaccelerationmeany	the mean time domain signal of body acceleration for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+
+timebodyaccelerationmeany
+* the mean time domain signal of body acceleration for y axis, averaged for each subject and activity	
+* -1 to 1 (from normalized measurements)
+
 * timebodyaccelerationmeanz	the mean time domain signal of body acceleration for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
 * timegravityaccelerationmeanx	the mean time domain signal of gravity acceleration signal for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
 * timegravityaccelerationmeany	the mean time domain signal of gravity acceleration signal for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)

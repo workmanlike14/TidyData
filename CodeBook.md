@@ -27,27 +27,36 @@ timebodyaccelerationmeanz
 * the mean time domain signal of body acceleration for z axis, averaged for each subject and activity
 * -1 to 1 (from normalized measurements)
 
-* timegravityaccelerationmeanx	
+timegravityaccelerationmeanx	
 * the mean time domain signal of gravity acceleration signal for x axis, averaged for each subject and activity	
 * -1 to 1 (from normalized measurements)
 
-* timegravityaccelerationmeany	the mean time domain signal of gravity acceleration signal for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-* timegravityaccelerationmeanz	the mean time domain signal of gravity acceleration signal for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-* timebodyaccelerationjerkmeanx	the mean time domain signal of body acceleration jerk for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+timegravityaccelerationmeany
+* the mean time domain signal of gravity acceleration signal for y axis, averaged for each subject and activity
+* -1 to 1 (from normalized measurements)
+
+timegravityaccelerationmeanz
+* the mean time domain signal of gravity acceleration signal for z axis, averaged for each subject and activity	
+* 1 to 1 (from normalized measurements)
+
+timebodyaccelerationjerkmeanx
+* the mean time domain signal of body acceleration jerk for x axis, averaged for each subject and activity
+* -1 to 1 (from normalized measurements)
+
 * timebodyaccelerationjerkmeany	the mean time domain signal of body acceleration jerk for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
 * timebodyaccelerationjerkmeanz	the mean time domain signal of body acceleration jerk for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyromeanx	the mean time domain signal of body gyro for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyromeany	the mean time domain signal of body gyro for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyromeanz	the mean time domain signal of body gyro for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyrojerkmeanx	the mean time domain signal of body gyro jerk for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyrojerkmeany	the mean time domain signal of body gyro jerk for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyrojerkmeanz	the mean time domain signal of body gyro jerk for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodyaccelerationmagnitudemean	the mean magnitude of the time domain signals of body acceleration, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timegravityaccelerationmagnitudemean	the mean magnitude of the time domain signals of gravity acceleration, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodyaccelerationjerkmagnitudemean	the mean magnitude of time domain signals of body acceleration jerk, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyromagnitudemean	the mean magnitude of time domain signals of body gyro, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-timebodygyrojerkmagnitudemean	the mean magnitude of time domain signals of body gyro jerk, averaged for each subject and activity	-1 to 1 (from normalized measurements)
-frequencybodyaccelerationmeanx	the mean frequency domain signal of body acceleration for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyromeanx	the mean time domain signal of body gyro for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyromeany	the mean time domain signal of body gyro for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyromeanz	the mean time domain signal of body gyro for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyrojerkmeanx	the mean time domain signal of body gyro jerk for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyrojerkmeany	the mean time domain signal of body gyro jerk for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyrojerkmeanz	the mean time domain signal of body gyro jerk for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodyaccelerationmagnitudemean	the mean magnitude of the time domain signals of body acceleration, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timegravityaccelerationmagnitudemean	the mean magnitude of the time domain signals of gravity acceleration, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodyaccelerationjerkmagnitudemean	the mean magnitude of time domain signals of body acceleration jerk, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyromagnitudemean	the mean magnitude of time domain signals of body gyro, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* timebodygyrojerkmagnitudemean	the mean magnitude of time domain signals of body gyro jerk, averaged for each subject and activity	-1 to 1 (from normalized measurements)
+* frequencybodyaccelerationmeanx	the mean frequency domain signal of body acceleration for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
 frequencybodyaccelerationmeany	the mean frequency domain signal of body acceleration for y axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
 frequencybodyaccelerationmeanz	the mean frequency domain signal of body acceleration for z axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)
 frequencybodyaccelerationmeanfreqx	weighted average of frequency domain signals of body acceleration for x axis, averaged for each subject and activity	-1 to 1 (from normalized measurements)

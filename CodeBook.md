@@ -1,9 +1,6 @@
 Codebook
 ========
 
-ow to share data with a statistician
-===========
-
 Variable
 * Variable Definition
 * Range of Values

@@ -3,9 +3,8 @@ Codebook
 
 Variable
 
-  Variable Definition
-
-  Range of Values
+Variable Definition
+Range of Values
   
 subject	
   

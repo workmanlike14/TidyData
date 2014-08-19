@@ -1,10 +1,12 @@
 Codebook
 ========
 
+### Format:
 Variable
 * Variable Definition
 * Range of Values
 
+### Variables in "tidydata.txt"
 Subject
 * Study subject (person)
 * 1 to 30

@@ -1,7 +1,6 @@
 Variable
-
-  Variable Definition
-  Range of Values
+Variable Definition
+Range of Values
   
 subject	
   Study subject (a person)	

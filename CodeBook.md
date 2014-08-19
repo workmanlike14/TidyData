@@ -1,9 +1,9 @@
 Codebook
 ========
 
-_Variable
+Variable
 * Variable Definition
-* Range of Values_
+* Range of Values
 
 Subject
 * Study subject (person)
@@ -26,3 +26,7 @@ timebodyaccelerationmeanx
   the mean time domain signal of body acceleration for x axis, averaged for each subject and activity	
 
   -1 to 1 (from normalized measurements)
+
+Test
+See what happens
+shdh

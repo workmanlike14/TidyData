@@ -3,12 +3,14 @@ Codebook
 
 Variable
 
-Variable Definition
+  Variable Definition
 
-Range of Values
+  Range of Values
   
 subject	
+  
   Study subject (a person)	
+  
   1 to 30
 
 activity	

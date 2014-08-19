@@ -8,11 +8,10 @@ Variable
 * Variable Definition
 * Range of Values
 
-Variable
+Subject
+* Study subject (person)
+* 1 to 30
 
-Variable Definition
-
-Range of Values
   
 subject	
   

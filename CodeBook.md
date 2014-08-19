@@ -43,11 +43,11 @@ timebodyaccelerationjerkmeanx
 * the mean time domain signal of body acceleration jerk for x axis, averaged for each subject and activity
 * -1 to 1 (from normalized measurements)
 
-* timebodyaccelerationjerkmeany
+timebodyaccelerationjerkmeany
 * the mean time domain signal of body acceleration jerk for y axis, averaged for each subject and activity	
 * -1 to 1 (from normalized measurements)
 
-* timebodyaccelerationjerkmeanz
+timebodyaccelerationjerkmeanz
 * the mean time domain signal of body acceleration jerk for z axis, averaged for each subject and activity	
 * -1 to 1 (from normalized measurements)
 

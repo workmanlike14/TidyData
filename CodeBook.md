@@ -1,9 +1,9 @@
 Codebook
 ========
 
-Variable
+_Variable
 * Variable Definition
-* Range of Values
+* Range of Values_
 
 Subject
 * Study subject (person)

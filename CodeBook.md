@@ -3,7 +3,7 @@ Study Design Details
 
 ### Data source
 
-This dataset summarizes a subset of measurements from experiments conducted by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto.  Thirty subjects performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, and laying), and using a Samsung Galaxy S II smartphone on the waist with its accelerometer and gyroscope to capture measurements of 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.  The researchers "README.txt" and "features_info.txt" should be consulted for a detailed description of the measurements and features.
+This dataset summarizes a subset of measurements from experiments conducted by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto.  Thirty subjects performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, and laying), and using a Samsung Galaxy S II smartphone on the waist with its accelerometer and gyroscope to capture measurements of 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.  The researchers' "README.txt" and "features_info.txt" should be consulted for a detailed description of the measurements and features.
 
 ### Data file description
 

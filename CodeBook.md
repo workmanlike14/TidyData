@@ -7,7 +7,7 @@ This dataset summarizes a subset of measurements from experiments conducted by J
 
 ### Data file description
 
-The data file "tidydata.txt" produced by the R script "run_analysis.R", merges the training and test data sets, takes the subset of 79 variables that capture the mean or standard deviation of each measurement and then calculates the mean for each subject/activity pairing, producing 180 rows of data (30 subjects * 6 activities = 180 mean values for each variables).  The first two columns indicate the subject and activity, creating 81 columns (those two columns + the 79 calculated means).
+The space delimited data file "tidydata.txt" produced by the R script "run_analysis.R", merges the training and test data sets, takes the subset of 79 variables that capture the mean or standard deviation of each measurement and then calculates the mean for each subject/activity pairing, producing 180 rows of data (30 subjects * 6 activities = 180 mean values for each variables).  The first two columns indicate the subject and activity, creating 81 columns (those two columns + the 79 calculated means).
 
 In addition, variable names and the labels for the activity variable were renamed to lowercase and descriptive names to enhance clarity.
 

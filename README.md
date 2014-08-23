@@ -5,7 +5,7 @@ Guide to contents of repository
 
 This repository has two files for the Course Project for "Getting and Cleaning Data":
 
-1.  "run_analysis.R":  
+## 1.  "run_analysis.R":  
   
 This R script takes the raw data files and process them into a tidy data set according to the course project instructions.
 
@@ -18,6 +18,6 @@ The script completes the following tasks:
 * appropriately labels the dataset with descriptive variables names (all lowercase words without spaces or symbols)
 * creates a second, independent tidy data set with the average of each variable for each activity and each subject.  This data set is a text file, space delimited, with no row names.
 
-2.  "Codebook.MD": 
+## 2.  "Codebook.MD": 
 
 The markdown file details the variables included in the dataset (names, values and units, definitions), and describes the transformations to the data.

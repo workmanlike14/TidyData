@@ -22,7 +22,7 @@ Variable
 * Range of Values
 
 ### Variables in "tidydata.txt"
-Subject
+subject
 * Study subject (person)
 * 1 to 30
 

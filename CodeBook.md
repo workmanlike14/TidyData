@@ -18,8 +18,8 @@ Codebook
 
 ### Format:
 Variable
-* variable Definition
-* range of Values
+* variable definition
+* range of values
 
 ### Variables in "tidydata.txt"
 subject

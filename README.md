@@ -10,7 +10,7 @@ This repository has two files for the Course Project for "Getting and Cleaning D
 This R script takes the raw data files and process them into a tidy data set according to the course project instructions.
 
 The script completes the following tasks:
-* checks to see if files are in working directory, and if not downloads zip file and unzips them into the working directory.  (The files can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI HAR Dataset.zip.)
+* checks to see if files are in working directory, and if not downloads zip file and unzips them into the working directory.  (The files can be found here: "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI HAR Dataset.zip".)
 * reads the data files into R
 * merges the training and test datasets into one dataframe with feature labels
 * subsets to keep only measurements with mean and standard deviation.  NOTE: this is interpreted as variables with "mean" or "std" and DID NOT include additional vectors that averaged signals in a signal window sample, stored as six angle() variables. Reason for not including: these variables appear to not be means or standard deviations of measurements.

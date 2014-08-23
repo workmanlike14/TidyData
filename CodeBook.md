@@ -18,12 +18,12 @@ Codebook
 
 ### Format:
 Variable
-* Variable Definition
-* Range of Values
+* variable Definition
+* range of Values
 
 ### Variables in "tidydata.txt"
 subject
-* Study subject (person)
+* study subject (person)
 * 1 to 30
 
 activity

@@ -14,7 +14,7 @@ The script completes the following tasks:
 * reads the data files into R.
 * merges the training and test datasets into one dataframe with variable (feature) labels.
 * subsets to keep only measurements with mean and standard deviation.  (NOTE: This is interpreted as variables with "mean" or "std" and DID NOT include additional vectors that averaged signals in a signal window sample, stored as six angle() variables. Reason for not including: these variables appear to not be means or standard deviations of measurements.)
-* replaces the activity code with tidy labels by converting to a factor variable.
+* replaces the activity code with tidy labels by converting to a factor variable and using lower case formatting without underscores for labels.
 * appropriately labels the dataset with descriptive variables names (all lowercase words without spaces or symbols).
 * creates a second, independent tidy data set with the average of each variable for each activity and each subject.  This data set is a text file, space delimited, with no row names.
 

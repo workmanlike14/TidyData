@@ -7,7 +7,7 @@ This repository has two files for the Course Project for "Getting and Cleaning D
 
 ## 1.  "run_analysis.R"  
   
-This R script takes the raw data files and process them into a tidy data set according to the course project instructions.
+This R script takes the raw data files and processes them into a tidy data set according to the course project instructions.
 
 The script completes the following tasks:
 * checks to see if files are in working directory, and if not downloads zip file and unzips them into the working directory.  (The files can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip .)

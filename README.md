@@ -12,7 +12,7 @@ This R script takes the raw data files and processes them into a tidy data set a
 The script completes the following tasks:
 * checks to see if files are in working directory, and if not downloads a zip file and unzips them into the working directory.  (The files can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip .)
 * reads the data files into R
-* merges the training and test datasets into one dataframe with feature labels
+* merges the training and test datasets into one dataframe with variable (feature) labels
 * subsets to keep only measurements with mean and standard deviation.  NOTE: this is interpreted as variables with "mean" or "std" and DID NOT include additional vectors that averaged signals in a signal window sample, stored as six angle() variables. Reason for not including: these variables appear to not be means or standard deviations of measurements.
 * replaces the activity code with tidy labels by converting to a factor variable and formatting labels nicely
 * appropriately labels the dataset with descriptive variables names (all lowercase words without spaces or symbols)
